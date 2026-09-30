@@ -1,5 +1,9 @@
 # org.osgi.dto
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/osgi/org.osgi.dto/badge)](https://securityscorecards.dev/viewer/?uri=github.com/osgi/org.osgi.dto)
+[![build](https://github.com/osgi/org.osgi.dto/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/osgi/org.osgi.dto/actions/workflows/build.yml)
+[![Maven Central](https://img.shields.io/maven-central/v/org.osgi/org.osgi.dto)](https://central.sonatype.com/artifact/org.osgi/org.osgi.dto)
+
 OSGi Specification repo for org.osgi.dto
 
 Part of the [OSGi Specification Project](https://projects.eclipse.org/projects/technology.osgi).
